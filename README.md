@@ -4,12 +4,6 @@
 
 💻 Estudante de Segurança da Informação | Python | Pentest | Desenvolvimento Web
 
----
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
-
 </div>
 
 ---
@@ -18,7 +12,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,git,github,linux,bash,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,git,github,linux,bash,vscode&theme=dark"/>
+
+<td width="35%" align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU5dzA5OWZzZ20zaWxuN2c1d2FkajFia3Njdmx5Y3VveXRvbzYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" width="250px"/>
+
+</td>
 
 </div>
 
@@ -28,7 +28,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rickzz0/rickzz0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 </div>
 
@@ -38,19 +40,11 @@
 
 <div align="center">
 
-<a href="https://youtube.com/@SEU_CANAL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/SEU_PERFIL">
+<a href="https://www.linkedin.com/in/henrique-cesar-847ab32b6">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="https://henriquecesar3030@gmail.com@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -58,20 +52,16 @@
 
 ---
 
-## 🎯 Atualmente
+## 🎯 Atualmente Estudando
 
-🔹 Aprendendo Python avançado
+🔹 Python e N8N 🐍
 
-🔹 Estudando Segurança da Informação
-
-🔹 Pentest Web
-
-🔹 Git & GitHub
+🔹 Espanhol 🇪🇸
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ff69b4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rickzz0&color=ff69b4&style=for-the-badge)
 
 </div>
