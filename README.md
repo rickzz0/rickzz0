@@ -1,13 +1,15 @@
+<div align="center">
+
 <table>
 <tr>
 
 <td width="40%" align="center">
 
-<img src="https://preview.redd.it/bunny-iglesias-v0-sb3ze0tau4uf1.png?width=640&crop=smart&auto=webp&s=85b15e222f20ddf27b99cb044c70e6266c0f0ded" width="300"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU5dzA5OWZzZ20zaWxuN2c1d2FkajFia3Njdmx5Y3VveXRvbzYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" width="300"/>
 
 </td>
 
-<td width="60%">
+<td width="60%" align="left">
 
 # 👋 Olá, eu sou Rick!
 
@@ -17,6 +19,8 @@
 
 </tr>
 </table>
+
+</div>
 
 ---
 
