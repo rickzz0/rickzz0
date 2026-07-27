@@ -11,7 +11,7 @@
 
 <td width="60%" align="left">
 
-# 👋 Olá, eu sou Rick!
+#  Henrique César
 
 💻 Estudante | Python | Linux | Git & GitHub
 
